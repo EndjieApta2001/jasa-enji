@@ -1,0 +1,155 @@
+@import url(//db.onlinewebfonts.com/c/ead4092f880f75ff0883ced1856b2c37?family=SF+Pro+Rounded); 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar h3, a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.navbar a:hover{
+    color: white;
+}
+
+.cover {
+    margin: 0px 0px 98px;
+}
+
+.cover .container .row .col-md-6 h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 200%;
+    margin-top: 200px;
+}
+
+.cover .container .row .col-md-6 img {
+    width: 450px;
+}
+
+.cover .container .row .col-md-6 .btn {
+    background-color: rgb(110, 97, 199);
+ }
+
+.cover .container .row .col-6 .btn:hover {
+   background-color: rgb(50, 28, 190);
+}
+
+.about {
+    margin: 100px 0px 98px;
+}
+
+.about .container .row .col-md-6 .img {
+    width: 450px;
+}
+
+.about .container .row .col-md-6 h1 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: 400;
+    font-size: 150%;
+    margin-top: 65px;
+    text-align: justify;
+}
+
+.visimisi {
+    margin: 100px 0px 150px;
+}
+
+.visimisi .container .md-6 h1 {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.visimisi .container .row .col-md-9 h1 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: bolder;
+    font-size: 150%;
+    text-align: justify;
+    margin-bottom: 60px;
+}
+
+.visimisi .container .row .col-6 h2 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: 200;
+    font-size: 150%;
+    text-align: justify;
+}
+
+.visimisi .container .row .col-6 p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 100%;
+    text-align: justify;
+}
+
+.pertanya{
+    margin: 100px 0px 98px;
+}
+
+.pertanya .container .row .col-md img {
+    width: 450px;
+}
+
+.pertanya .container .row .col .mb-3 {
+
+}
+
+/* tutorial */
+
+.tutorial-cover {
+    margin: 100px 0px 98px;
+}
+
+.tutorial-cover .container .row .col-6 h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 200%;
+    margin-top: 200px;
+}
+
+.tutorial-cover .container .row .col-6 img {
+    width: 450px;
+}
+
+.belajar {
+    margin: 100px 0px 98px;
+}
+
+.belajar .row .col-6 .p-3 .img {
+    width: 250px;
+}
+
+.belajar .row .col-6 .p-3 h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 150%;
+}
+
+/* belajar-abjad */
+
+.belajar-abjad {
+    margin: 100px 0px 98px;
+}
+
+.belajar-abjad .container .row .col .img {
+    width: 100px;
+}
+
+.review {
+    margin: 100px 0px 98px;
+}
+
+.review .container h1 {
+    margin-bottom: 25px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: 700;
+    font-size: 150%;
+    text-align: center;
+}
+
